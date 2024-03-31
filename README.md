@@ -6,14 +6,7 @@
 
 
 
-<p align="center">
-<img src="https://img.shields.io/github/languages/code-size/fiskryeziu/zoroClone" alt="GitHub code size in bytes" />
-<img src="https://img.shields.io/github/last-commit/fiskryeziu/zoroClone" alt="GitHub last commit" />
-<img src="https://img.shields.io/github/commit-activity/m/fiskryeziu/zoroClone" alt="GitHub commit activity month" />
-</p>
 
-<p></p>
-<p></p>
 
 # 📌 Overview
 
