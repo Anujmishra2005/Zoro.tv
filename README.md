@@ -99,6 +99,6 @@ yarn dev
 
 ## ☁️ Deploy
 
-`[Application name](Your App URL)`
+`https://zoro-tv-ten.vercel.app/`
 
 
