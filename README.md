@@ -40,7 +40,6 @@ ZoroClone: A ReactJS Anime Website Clone 🗡️📺 – Emulate the magic of an
 ```bash
 ├── .github
 ├── .gitignore
-├── CONTRIBUTING.md
 ├── index.html
 ├── package-lock.json
 ├── package.json
@@ -80,7 +79,7 @@ ZoroClone: A ReactJS Anime Website Clone 🗡️📺 – Emulate the magic of an
 ## 🚀 Run Locally
 1.Clone the zoroClone repository:
 ```sh
-git clone https://github.com/fiskryeziu/zoroClone
+https://github.com/Anujmishra2005/Zoro.tv/fork
 ```
 2.Install the dependencies with one of the package managers listed below:
 ```bash
@@ -97,10 +96,6 @@ npm run dev
 yarn dev
 ```
 
-## 🙌 Contributors
-<a href="https://github.com/fiskryeziu/zoroClone/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=fiskryeziu/zoroClone" />
-</a>
 
 ## ☁️ Deploy
 
