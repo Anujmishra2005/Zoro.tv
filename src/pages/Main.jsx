@@ -154,7 +154,7 @@ const Main = () => {
           </M.BoxRight>
         </M.BoxWrapper>
         <M.Footer>
-          <p>©2021 Zoro.to. All rights reserved.</p>
+          <p>©2024 Zoro.to. All rights reserved.</p>
           <p>Mangareader - Read Manga Online For FREE</p>
         </M.Footer>
       </M.Container>
